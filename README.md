@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
+
+Streaming architecture enjoyer :godmode:
+
+Developing data platform and services at [@KazanExpress](https://kazanexpress.ru/) and [@Uzum](https://uzum.uz/) with JVM power
+
+
 
 <!--
 **olejeglejeg/olejeglejeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=olejeglejeg&count_private=true&show_icons=true&custom_title=GitHub&nbsp;Stats) -->
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=olejeglejeg&count_private=true&show_icons=true&custom_title=GitHub&nbsp;Stats)
