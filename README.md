@@ -2,7 +2,7 @@
 
 Streaming architecture enjoyer :godmode:
 
-Developing data platform and services at [@KazanExpress](https://kazanexpress.ru/) and [@Uzum](https://uzum.uz/) with JVM power
+Developing data platform at [@KazanExpress](https://kazanexpress.ru/) and [@Uzum](https://uzum.uz/) with JVM power
 
 
 
